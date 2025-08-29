@@ -17,5 +17,3 @@ public class LeapYear {
         System.out.println(year + " ¿es bisiesto? " + isLeap(year));
     }
 }
-
-
